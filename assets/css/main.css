@@ -88,7 +88,7 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #2d2d2d;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #121212;
 		line-height: 1.5em;
 	}
 
@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 96px;
-			height: 96px;
+			width: 200px;
+			height: 200px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 96px;
-				height: 96px;
+				width: 200px;
+				height: 200px;
 			}
 
 		.image.fit {
@@ -1772,8 +1772,8 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: 100%;
-			margin: 0 0 2em 0;
+			width: 80%;
+			margin: 0 auto;
 		}
 
 		.image.left {
@@ -2046,7 +2046,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #222629; 
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2122,7 +2122,7 @@ input, select, textarea {
 
 		#logo .image {
 			position: relative;
-			left: -70px;
+			left: -17px;
 			top: 0;
 		}
 
